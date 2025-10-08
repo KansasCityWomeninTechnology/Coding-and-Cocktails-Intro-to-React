@@ -2,7 +2,5 @@
     "chat.sendElementsToChat.attachCSS": false,
     "chat.sendElementsToChat.attachImages": false,
     "chat.sendElementsToChat.enabled": false,
-    "workbench.statusBar.visible": false,
-    "github.copilot.inlineSuggest.enable": false,
-    "github.copilot.editor.enableAutoCompletions": false
+    "workbench.statusBar.visible": false
 }
