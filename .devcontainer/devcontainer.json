@@ -15,8 +15,11 @@
         "src/App.jsx"
       ]
     },
-    "vscode": {
-      "extensions": ["-github.copilot-chat"]
+    ""vscode": {
+      "extensions": [
+        "-GitHub.copilot-chat",
+        "-GitHub.copilot"
+      ]
     }
   },
   "portsAttributes": {
