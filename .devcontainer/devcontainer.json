@@ -15,7 +15,7 @@
         "src/App.jsx"
       ]
     },
-    ""vscode": {
+    "vscode": {
       "extensions": [
         "-GitHub.copilot-chat",
         "-GitHub.copilot"
