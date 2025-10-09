@@ -2,5 +2,6 @@
     "chat.sendElementsToChat.attachCSS": false,
     "chat.sendElementsToChat.attachImages": false,
     "chat.sendElementsToChat.enabled": false,
+    "chat.disableAIFeatures": true,
     "workbench.statusBar.visible": false
 }
